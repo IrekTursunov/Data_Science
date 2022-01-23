@@ -10,7 +10,7 @@
 # count_users = 4
 #
 # print(f"По опросам пользователей средняя оценка равна {(mark1+mark2+mark3+mark4)/count_users}.")
-marks = '4444'
+marks = '412345'
 count_one = marks.count('1')
 count_two = marks.count('2')
 count_three = marks.count('3')
