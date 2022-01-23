@@ -17,5 +17,6 @@ count_three = marks.count('3')
 count_four = marks.count('4')
 count_five = marks.count('5')
 average_mark = (count_one+count_two*2+count_three*3+count_four*4+count_five*5)/len(marks)
+# печать результата
 print(f'Средняя оценка пользователей: {average_mark}')
 print(f'Приближенная средняя оценка пользователей: {round(average_mark)}')
